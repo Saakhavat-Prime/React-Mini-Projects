@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-    <Lottery />
+     <Lottery  n = {3} winningSum={15}/>
     </>
   )
 }
